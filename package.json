@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.0"
+  },
+  "name": "freeddev-network",
+  "description": "The Freeddev Network consists of the Freeddev website and Freeddev Server.",
+  "version": "0.1.1",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "sudo node app.js",
+    "test": "echo 'Yep working. You may want to try npm start ;)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreedTapstry21/Freeddev-Network.git"
+  },
+  "author": "FreedTapstry21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FreedTapstry21/Freeddev-Network/issues"
+  },
+  "homepage": "https://github.com/FreedTapstry21/Freeddev-Network#readme"
+}

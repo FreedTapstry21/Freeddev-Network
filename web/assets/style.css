@@ -31,7 +31,7 @@ a {
 	background-color: rgb(78, 78, 78);
 	padding: 5px;
 	border-radius: 25px;
-	transition-duration: 0.4s;
+	transition-duration: 0.28s;
 }
 
 a:hover {
@@ -45,10 +45,10 @@ a:hover {
 /* Custom styles */
 
 .xl {font-size: 36px;}
-.l {font-size: 24px;}
-.n {font-size: 14px;}
-.s {font-size: 12px;}
-.xs {fonr-size: 10px;}
+.l {font-size: 28px;}
+.n {font-size: 18px;}
+.s {font-size: 14px;}
+.xs {fonr-size: 12px;}
 
 .menu {
 	background-color: rgba(48, 48, 48, 0.75);

@@ -8,8 +8,8 @@
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
-    "start": "sudo node app.js",
-    "test": "echo 'Yep working. You may want to try npm start ;)'"
+    "start": "node app.js",
+    "test": "echo Yep working. You may want to try npm start."
   },
   "repository": {
     "type": "git",

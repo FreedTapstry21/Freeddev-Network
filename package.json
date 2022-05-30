@@ -4,7 +4,7 @@
   },
   "name": "freeddev-network",
   "description": "The Freeddev Network consists of the Freeddev website and Freeddev Server.",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
